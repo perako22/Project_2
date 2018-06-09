@@ -1,0 +1,38 @@
+.container-fluid {
+    background: rgba(42, 136, 224, 0.808);
+    outline: .1px double red;
+    padding: 5%;
+}
+
+.jumbotron {
+    background-image: url("https://c8.alamy.com/comp/DFJ84G/police-line-tape-at-a-crime-scene-washington-dc-usa-DFJ84G.jpg");
+    background-size: 100%;
+    background-position-y: center;
+    background-repeat:no-repeat;
+    display: compact;
+    color:rgb(190, 34, 34);
+    text-align: center;
+    min-height: 75px;
+}
+
+.jumbotron h1 {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+
+#pie {
+    width: 100%;
+    height: 100%;
+}
+
+#gauge {
+    width: 100%;
+    height: 100%;
+}
+
+#bubble {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
